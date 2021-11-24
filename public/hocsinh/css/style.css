@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.total{
+    display: flex;
+}
+.infor{
+    width: 70%;
+    padding-left: 20px;
+}
+.caret_card{
+    border: 1px solid black ;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.banner{
+    margin-bottom: 20px;
+}
+.avatar img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.chiacot{
+    display: flex;
+    background: url('https://scontent.fdad3-4.fna.fbcdn.net/v/t1.6435-9/p640x640/74808050_2489989817886515_623588328930803712_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=e3f864&_nc_ohc=M8ZTeIHFqW8AX-_fjou&_nc_ht=scontent.fdad3-4.fna&oh=7191f1dd31baacf1199e422c0c40a1a7&oe=61BAE3EB');
+    justify-content: space-between;
+    padding: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.link{
+    padding: 20px;
+}
+span{
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+}
+.giaovien a{
+    font-weight: bold;
+    color: #333;
+}
+.giaovien a:hover{
+    color: #333;
+}
